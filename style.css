@@ -398,6 +398,7 @@ body{
         }
         .scrollbtn{
             display: flex;
+            width: 25px;
         }
 }
 
